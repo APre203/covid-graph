@@ -9,3 +9,4 @@ Graphs the amount of people fuly vaccinated in any state in the US
 By writing a state's postal abbreviation into the graph function, you will create a graph that looks like this:
 
 ![Graph](https://i.imgur.com/tLwC1Px.png)
+![Graph](https://imgur.com/cQel8sY.png)
