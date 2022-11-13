@@ -1,7 +1,7 @@
 
 # covid-graph
 
-Graphs the amount of people fuly vaccinated in any state in the US
+Graphs the amount of people fully vaccinated in any state in the US
 
 
 ## How to use:
